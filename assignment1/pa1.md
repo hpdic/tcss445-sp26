@@ -33,21 +33,21 @@ While there are many possible designs, for this homework you are encouraged to u
     * This implies that if we ask you to explain a snippet of source code, you should be able to do it without asking AI
     * We also recommend you to include your AI prompts in your documentation, so that we can understand how you use AI to help you with this assignment
 
-### Grading (10 points)
+### Grading (15 points)
 This is an individual assignment
 
-* Documentation (3 points)
+* Documentation (4 points)
     * Document the testing result, i.e., something like the comments in the testfile
     * Document the persistent directories and files after running the test script
     * Document the AI prompt (if applicable)
 
-* Source code (7 points)
+* Source code (11 points)
     * Coding style and clarity (2 points)
         * Appropriate parenthesis locations, indention, etc.
         * Always write comments at the beginning of any files, such as author, date, history, etc.
         * Always write comments at the beginning of any nontrivial class/function, e.g., what this class/function does, input/output, high-level algorithm if needed
         * Write in-line comments for nontrivial blocks of code
-    * Functionality (5 points)
+    * Functionality (9 points)
 
 ### Submission
 * Canvas
