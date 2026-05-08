@@ -1,0 +1,1 @@
+* May 07: [Lecture Recording](https://urldefense.com/v3/__https://washington.zoom.us/rec/share/kBEvsdretGGeXy5KQ1WR0yLMk_4unt7CjN5e6jF4ghZtmwDCedeQ_BMyViIq02Yp.3dEpImOCbXs887Rv__;!!K-Hz7m0Vt54!l5mbvrrHZyiNgbRmZAHMUjzlxRVxuMFJix8j2yuUz7FutK5HT8LzZeuNNdR74iiktCaW6evT8jgH-KY$)
